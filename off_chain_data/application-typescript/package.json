@@ -20,7 +20,7 @@
     "dependencies": {
         "@grpc/grpc-js": "^1.9.7",
         "@hyperledger/fabric-gateway": "~1.4.0",
-        "@hyperledger/fabric-protos": "^0.2.1"
+        "@hyperledger/fabric-protos": "^0.3.0"
     },
     "devDependencies": {
         "@tsconfig/node18": "^18.2.2",
