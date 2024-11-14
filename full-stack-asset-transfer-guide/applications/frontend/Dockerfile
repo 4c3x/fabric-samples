@@ -7,5 +7,5 @@
 # COPY  . /app
 # CMD [ "npm","run","prod" ]
 
-FROM nginx:alpine
+FROM nginx:1.27.2-alpine3.20
 COPY /dist/frontend /usr/share/nginx/html
